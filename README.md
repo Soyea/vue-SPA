@@ -11,7 +11,7 @@ vue-cli（操作步骤：新建文件夹->node环境下在命令框里输入vue 
 
 如何运行？
 
-下载此文件夹以后只需要在node环境下的命令窗口执行指令：npm install（安装项目依赖）->npm run dev（运行） 即可；
+下载此文件夹以后只需要在node环境下的命令窗口执行指令：npm install（安装项目依赖）->npm run dev/npm start（运行） 即可；
 
 作品概述：
 
